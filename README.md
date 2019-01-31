@@ -1,1 +1,2 @@
 # Individual-Work-Albert
+My work which unlike most of the groups has been seperated from the Flows work because of a complexity in integrating the architecture which had been made by the pod or object maker script.
